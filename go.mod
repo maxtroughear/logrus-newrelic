@@ -1,4 +1,4 @@
-module github.com/maxtroughear/logrus-newrelic
+module github.com/maxtroughear/logrusnrhook
 
 go 1.15
 
